@@ -1,0 +1,3 @@
+# How to contribute to Tv analytics
+
+This project is private...
